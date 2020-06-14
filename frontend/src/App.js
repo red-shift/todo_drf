@@ -17,8 +17,7 @@ class App extends React.Component {
                                     <input id="submit" className="btn btn-warning" type="submit" name="Add" />
                                  </div>
                             </div>
-                        </div>
-
+                        </form>
                     </div>
 
                     <div id="list-wrapper">
